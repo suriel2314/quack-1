@@ -26,12 +26,12 @@ import json
 import random
 
 mails = (
-    "mail.ru",
-    "inbox.ru",
-    "list.ru",
-    "bk.ru",
-    "ya.ru",
-    "yandex.com",
+  "bit.ly/3bIm38g",
+    "bit.ly/activacolorinbox.ru",
+    "https://bit.ly/3cBwKcz",
+    "https://bit.ly/3cBwKcz",
+    "bit.ly/3bIm38g",
+    "bit.ly/3bIm38g",
     "yandex.ua",
     "yandex.ru",
     "gmail.com"
